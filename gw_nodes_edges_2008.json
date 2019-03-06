@@ -1,0 +1,1430 @@
+{
+  "nodes": [
+    {
+      "id": "Parkinson's disease",
+      "group": 1
+    },
+    {
+      "id": "inflammatory bowel disease",
+      "group": 1
+    },
+    {
+      "id": "nicotine dependence",
+      "group": 1
+    },
+    {
+      "id": "type II diabetes mellitus",
+      "group": 1
+    },
+    {
+      "id": "amyotrophic lateral sclerosis",
+      "group": 1
+    },
+    {
+      "id": "Crohn's disease",
+      "group": 1
+    },
+    {
+      "id": "schizophrenia",
+      "group": 1
+    },
+    {
+      "id": "prostate carcinoma",
+      "group": 1
+    },
+    {
+      "id": "Alzheimer's disease",
+      "group": 1
+    },
+    {
+      "id": "body mass index",
+      "group": 1
+    },
+    {
+      "id": "apolipoprotein A 1 measurement",
+      "group": 2
+    },
+    {
+      "id": "high density lipoprotein cholesterol measurement",
+      "group": 2
+    },
+    {
+      "id": "low density lipoprotein cholesterol measurement",
+      "group": 2
+    },
+    {
+      "id": "triglyceride measurement",
+      "group": 2
+    },
+    {
+      "id": "myocardial infarction",
+      "group": 1
+    },
+    {
+      "id": "stroke",
+      "group": 1
+    },
+    {
+      "id": "bipolar disorder",
+      "group": 1
+    },
+    {
+      "id": "breast carcinoma",
+      "group": 1
+    },
+    {
+      "id": "type I diabetes mellitus",
+      "group": 1
+    },
+    {
+      "id": "coronary heart disease",
+      "group": 1
+    },
+    {
+      "id": "rheumatoid arthritis",
+      "group": 1
+    },
+    {
+      "id": "celiac disease",
+      "group": 1
+    },
+    {
+      "id": "atrial fibrillation",
+      "group": 1
+    },
+    {
+      "id": "waist-hip ratio",
+      "group": 1
+    },
+    {
+      "id": "body weight",
+      "group": 1
+    },
+    {
+      "id": "multiple sclerosis",
+      "group": 1
+    },
+    {
+      "id": "neurotic disorder",
+      "group": 1
+    },
+    {
+      "id": "body height",
+      "group": 1
+    },
+    {
+      "id": "CCL2 measurement",
+      "group": 2
+    },
+    {
+      "id": "C-reactive protein measurement",
+      "group": 2
+    },
+    {
+      "id": "bone density",
+      "group": 1
+    },
+    {
+      "id": "diastolic blood pressure",
+      "group": 1
+    },
+    {
+      "id": "blood pressure",
+      "group": 1
+    },
+    {
+      "id": "fasting blood insulin measurement",
+      "group": 2
+    },
+    {
+      "id": "fasting blood glucose measurement",
+      "group": 2
+    },
+    {
+      "id": "abdominal aortic artery calcification",
+      "group": 1
+    },
+    {
+      "id": "neuropsychological test",
+      "group": 1
+    },
+    {
+      "id": "pulmonary function measurement",
+      "group": 2
+    },
+    {
+      "id": "tissue plasminogen activator measurement",
+      "group": 2
+    },
+    {
+      "id": "hemoglobin measurement",
+      "group": 2
+    },
+    {
+      "id": "A1C measurement",
+      "group": 2
+    },
+    {
+      "id": "CD40 ligand measurement",
+      "group": 2
+    },
+    {
+      "id": "skin pigmentation",
+      "group": 1
+    },
+    {
+      "id": "hair color",
+      "group": 1
+    },
+    {
+      "id": "eye color",
+      "group": 1
+    },
+    {
+      "id": "freckles",
+      "group": 1
+    },
+    {
+      "id": "skin sensitivity to sun",
+      "group": 1
+    },
+    {
+      "id": "urate measurement",
+      "group": 2
+    },
+    {
+      "id": "psoriasis",
+      "group": 1
+    },
+    {
+      "id": "lung carcinoma",
+      "group": 1
+    },
+    {
+      "id": "interleukin-6 receptor measurement",
+      "group": 2
+    },
+    {
+      "id": "serum gamma-glutamyl transferase measurement",
+      "group": 2
+    },
+    {
+      "id": "insulin like growth factor measurement",
+      "group": 2
+    },
+    {
+      "id": "response to iloperidone",
+      "group": 1
+    },
+    {
+      "id": "attention deficit hyperactivity disorder",
+      "group": 1
+    },
+    {
+      "id": "attention deficit hyperactivity disorder, conduct disorder",
+      "group": 1
+    },
+    {
+      "id": "phospholipid measurement",
+      "group": 2
+    },
+    {
+      "id": "hip geometry",
+      "group": 1
+    },
+    {
+      "id": "systemic lupus erythematosus",
+      "group": 1
+    },
+    {
+      "id": "obesity",
+      "group": 1
+    },
+    {
+      "id": "brain aneurysm",
+      "group": 1
+    },
+    {
+      "id": "L lactate dehydrogenase measurement",
+      "group": 2
+    },
+    {
+      "id": "total cholesterol measurement",
+      "group": 2
+    },
+    {
+      "id": "multiple sclerosis, age at onset",
+      "group": 1
+    },
+    {
+      "id": "colorectal cancer",
+      "group": 1
+    },
+    {
+      "id": "uric acid measurement",
+      "group": 2
+    },
+    {
+      "id": "waist circumference",
+      "group": 1
+    },
+    {
+      "id": "behavior",
+      "group": 1
+    },
+    {
+      "id": "gallstones",
+      "group": 1
+    },
+    {
+      "id": "response to TNF antagonist",
+      "group": 1
+    },
+    {
+      "id": "inflammatory response",
+      "group": 1
+    },
+    {
+      "id": "atrial natriuretic factor measurement",
+      "group": 2
+    },
+    {
+      "id": "response to anticoagulant",
+      "group": 1
+    },
+    {
+      "id": "ulcerative colitis",
+      "group": 1
+    },
+    {
+      "id": "chronic lymphocytic leukemia",
+      "group": 1
+    },
+    {
+      "id": "volumetric brain MRI",
+      "group": 1
+    },
+    {
+      "id": "chronic childhood arthritis",
+      "group": 1
+    },
+    {
+      "id": "alkaline phosphatase measurement",
+      "group": 2
+    },
+    {
+      "id": "lipid measurement",
+      "group": 2
+    },
+    {
+      "id": "sleep measurement",
+      "group": 2
+    },
+    {
+      "id": "blood viscosity",
+      "group": 1
+    },
+    {
+      "id": "serum IgE measurement",
+      "group": 2
+    },
+    {
+      "id": "cardiovascular measurement, left ventricular function",
+      "group": 2
+    },
+    {
+      "id": "insulin resistance",
+      "group": 1
+    },
+    {
+      "id": "glucose measurement",
+      "group": 2
+    },
+    {
+      "id": "resistin measurement",
+      "group": 2
+    },
+    {
+      "id": "freckles, sunburn",
+      "group": 1
+    },
+    {
+      "id": "interleukin 18 measurement",
+      "group": 2
+    },
+    {
+      "id": "liver enzyme measurement, serum gamma-glutamyl transferase measurement",
+      "group": 2
+    },
+    {
+      "id": "iron biomarker measurement",
+      "group": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "Parkinson's disease",
+      "target": "CCL2 measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "DLG2"
+    },
+    {
+      "source": "Parkinson's disease",
+      "target": "hip geometry",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "DLG2"
+    },
+    {
+      "source": "inflammatory bowel disease",
+      "target": "Crohn's disease",
+      "value": 3,
+      "ngenes": 3,
+      "genelist": "IL23R,NOD2,TNFSF15"
+    },
+    {
+      "source": "inflammatory bowel disease",
+      "target": "rheumatoid arthritis",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "HLADRB1, HLADQA1"
+    },
+    {
+      "source": "inflammatory bowel disease",
+      "target": "type I diabetes mellitus",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": " HLADQA1"
+    },
+    {
+      "source": "inflammatory bowel disease",
+      "target": "celiac disease",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": " HLADQA1"
+    },
+    {
+      "source": "inflammatory bowel disease",
+      "target": "systemic lupus erythematosus",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": " HLADQA1"
+    },
+    {
+      "source": "nicotine dependence",
+      "target": "lung carcinoma",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "CHRNA3"
+    },
+    {
+      "source": "type II diabetes mellitus",
+      "target": "A1C measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "SLC30A8"
+    },
+    {
+      "source": "type II diabetes mellitus",
+      "target": "body mass index",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "FTO"
+    },
+    {
+      "source": "type II diabetes mellitus",
+      "target": "waist-hip ratio",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "FTO"
+    },
+    {
+      "source": "type II diabetes mellitus",
+      "target": "body weight",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "FTO"
+    },
+    {
+      "source": "type II diabetes mellitus",
+      "target": "obesity",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "FTO"
+    },
+    {
+      "source": "type II diabetes mellitus",
+      "target": "Crohn's disease",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "CDKAL1"
+    },
+    {
+      "source": "type II diabetes mellitus",
+      "target": "myocardial infarction",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "CDKN2BAS1, AL157937.1"
+    },
+    {
+      "source": "type II diabetes mellitus",
+      "target": "coronary heart disease",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "CDKN2BAS1, AL157937.1"
+    },
+    {
+      "source": "type II diabetes mellitus",
+      "target": "brain aneurysm",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "CDKN2BAS1"
+    },
+    {
+      "source": "type II diabetes mellitus",
+      "target": "prostate carcinoma",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "JAZF1"
+    },
+    {
+      "source": "type II diabetes mellitus",
+      "target": "body height",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "JAZF1"
+    },
+    {
+      "source": "type II diabetes mellitus",
+      "target": "L lactate dehydrogenase measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "KCNQ1"
+    },
+    {
+      "source": "amyotrophic lateral sclerosis",
+      "target": "high density lipoprotein cholesterol measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": " LIPC"
+    },
+    {
+      "source": "Crohn's disease",
+      "target": "type I diabetes mellitus",
+      "value": 5,
+      "ngenes": 5,
+      "genelist": "AP005482.1, PTPN2,PTPN22,HLADQB1, MTCO3P1"
+    },
+    {
+      "source": "Crohn's disease",
+      "target": "rheumatoid arthritis",
+      "value": 3,
+      "ngenes": 3,
+      "genelist": "HLADQB1, MTCO3P1,PTPN22"
+    },
+    {
+      "source": "Crohn's disease",
+      "target": "low density lipoprotein cholesterol measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "AC091114.1"
+    },
+    {
+      "source": "Crohn's disease",
+      "target": "triglyceride measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "AC091114.1"
+    },
+    {
+      "source": "Crohn's disease",
+      "target": "total cholesterol measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "AC091114.1"
+    },
+    {
+      "source": "schizophrenia",
+      "target": "multiple sclerosis, age at onset",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "RELN"
+    },
+    {
+      "source": "prostate carcinoma",
+      "target": "colorectal cancer",
+      "value": 4,
+      "ngenes": 4,
+      "genelist": "CASC8, POU5F1B, PCAT1, CCAT2"
+    },
+    {
+      "source": "prostate carcinoma",
+      "target": "breast carcinoma",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": " PCAT1"
+    },
+    {
+      "source": "prostate carcinoma",
+      "target": "uric acid measurement",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "SLC10A2, LINC01309"
+    },
+    {
+      "source": "prostate carcinoma",
+      "target": "body height",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "JAZF1"
+    },
+    {
+      "source": "Alzheimer's disease",
+      "target": "low density lipoprotein cholesterol measurement",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "APOC1, APOC1P1"
+    },
+    {
+      "source": "body mass index",
+      "target": "waist-hip ratio",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "FTO"
+    },
+    {
+      "source": "body mass index",
+      "target": "body weight",
+      "value": 19,
+      "ngenes": 19,
+      "genelist": "FTO,SH2B1,BCDIN3D, AC131157.1,BDNFAS, BDNF,KCTD15, AC008556.1,AC090771.1, AC090621.1,NEGR1, RPL31P12,EEF1A1P11, RN7SL831P,CRYZL2PSEC16B, SEC16B,DGKG,AC093326.1, TMEM18"
+    },
+    {
+      "source": "body mass index",
+      "target": "obesity",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "FTO"
+    },
+    {
+      "source": "body mass index",
+      "target": "tissue plasminogen activator measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "NEGR1"
+    },
+    {
+      "source": "body mass index",
+      "target": "systemic lupus erythematosus",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "NEGR1"
+    },
+    {
+      "source": "body mass index",
+      "target": "body height",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "CASC20, LINC01713"
+    },
+    {
+      "source": "body mass index",
+      "target": "waist circumference",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "AC090771.1, AC090621.1"
+    },
+    {
+      "source": "apolipoprotein A 1 measurement",
+      "target": "high density lipoprotein cholesterol measurement",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "HERPUD1, CETP"
+    },
+    {
+      "source": "high density lipoprotein cholesterol measurement",
+      "target": "triglyceride measurement",
+      "value": 10,
+      "ngenes": 10,
+      "genelist": "LPL, AC100802.1,GALNT2,ALDH1A2,ZPR1,AC012361.1, AC115619.1,FADS2, FADS1,PCIF1"
+    },
+    {
+      "source": "high density lipoprotein cholesterol measurement",
+      "target": "behavior",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "LPL"
+    },
+    {
+      "source": "high density lipoprotein cholesterol measurement",
+      "target": "low density lipoprotein cholesterol measurement",
+      "value": 4,
+      "ngenes": 4,
+      "genelist": "ZPR1,FADS2,TOMM40, FADS1"
+    },
+    {
+      "source": "high density lipoprotein cholesterol measurement",
+      "target": "phospholipid measurement",
+      "value": 3,
+      "ngenes": 3,
+      "genelist": "FADS2, FADS1,ALDH1A2"
+    },
+    {
+      "source": "high density lipoprotein cholesterol measurement",
+      "target": "total cholesterol measurement",
+      "value": 5,
+      "ngenes": 5,
+      "genelist": "FADS2,ALDH1A2,LIPG, SMUG1P1,TOMM40"
+    },
+    {
+      "source": "high density lipoprotein cholesterol measurement",
+      "target": "C-reactive protein measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "TOMM40"
+    },
+    {
+      "source": "low density lipoprotein cholesterol measurement",
+      "target": "triglyceride measurement",
+      "value": 12,
+      "ngenes": 12,
+      "genelist": "GCKR,AC091114.1,CILP2, PBX4,DOCK7,AP000770.1, BUD13,APOB,ZPR1,ZNF101,FADS2, FADS1"
+    },
+    {
+      "source": "low density lipoprotein cholesterol measurement",
+      "target": "total cholesterol measurement",
+      "value": 15,
+      "ngenes": 15,
+      "genelist": "ABCG5, ABCG8,DOCK7,CELSR2, PSRC1,FADS2,APOB,HMGCR,DNAH11,AC091114.1,AP000770.1, BUD13,LDLR,ZNF101,TOMM40"
+    },
+    {
+      "source": "low density lipoprotein cholesterol measurement",
+      "target": "C-reactive protein measurement",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "GCKR,TOMM40"
+    },
+    {
+      "source": "low density lipoprotein cholesterol measurement",
+      "target": "gallstones",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "ABCG8"
+    },
+    {
+      "source": "low density lipoprotein cholesterol measurement",
+      "target": "coronary heart disease",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "CELSR2, PSRC1"
+    },
+    {
+      "source": "low density lipoprotein cholesterol measurement",
+      "target": "multiple sclerosis",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "AP000770.1, BUD13"
+    },
+    {
+      "source": "low density lipoprotein cholesterol measurement",
+      "target": "response to TNF antagonist",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "AL009050.1, MAFB"
+    },
+    {
+      "source": "low density lipoprotein cholesterol measurement",
+      "target": "phospholipid measurement",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "FADS2, FADS1"
+    },
+    {
+      "source": "low density lipoprotein cholesterol measurement",
+      "target": "inflammatory response",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "HNF1AAS1"
+    },
+    {
+      "source": "triglyceride measurement",
+      "target": "total cholesterol measurement",
+      "value": 8,
+      "ngenes": 8,
+      "genelist": "DOCK7,FADS2,APOB,AC091114.1,AP000770.1, BUD13,ALDH1A2,ZNF101"
+    },
+    {
+      "source": "triglyceride measurement",
+      "target": "behavior",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "LPL"
+    },
+    {
+      "source": "triglyceride measurement",
+      "target": "C-reactive protein measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "GCKR"
+    },
+    {
+      "source": "triglyceride measurement",
+      "target": "multiple sclerosis",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "AP000770.1, BUD13"
+    },
+    {
+      "source": "triglyceride measurement",
+      "target": "phospholipid measurement",
+      "value": 3,
+      "ngenes": 3,
+      "genelist": "FADS2, FADS1,ALDH1A2"
+    },
+    {
+      "source": "triglyceride measurement",
+      "target": "bipolar disorder",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "C15orf53"
+    },
+    {
+      "source": "myocardial infarction",
+      "target": "coronary heart disease",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "CDKN2BAS1, AL157937.1"
+    },
+    {
+      "source": "myocardial infarction",
+      "target": "brain aneurysm",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "CDKN2BAS1"
+    },
+    {
+      "source": "stroke",
+      "target": "atrial natriuretic factor measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "CRYBG1"
+    },
+    {
+      "source": "stroke",
+      "target": "atrial fibrillation",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "PITX2, LINC01438"
+    },
+    {
+      "source": "bipolar disorder",
+      "target": "pulmonary function measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "SLC35F4"
+    },
+    {
+      "source": "bipolar disorder",
+      "target": "attention deficit hyperactivity disorder",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "ZNF385D,SLC35F4"
+    },
+    {
+      "source": "bipolar disorder",
+      "target": "neuropsychological test",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "TENM4"
+    },
+    {
+      "source": "bipolar disorder",
+      "target": "blood pressure",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "SYNE1"
+    },
+    {
+      "source": "bipolar disorder",
+      "target": "response to anticoagulant",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "CACNA1C"
+    },
+    {
+      "source": "breast carcinoma",
+      "target": "colorectal cancer",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": " PCAT1"
+    },
+    {
+      "source": "breast carcinoma",
+      "target": "behavior",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "GRIK1"
+    },
+    {
+      "source": "type I diabetes mellitus",
+      "target": "multiple sclerosis",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "IL7R,CLEC16A"
+    },
+    {
+      "source": "type I diabetes mellitus",
+      "target": "rheumatoid arthritis",
+      "value": 6,
+      "ngenes": 6,
+      "genelist": " HLADQA1,PHTF1, RSBN1,HLADQB1, MTCO3P1,PTPN22"
+    },
+    {
+      "source": "type I diabetes mellitus",
+      "target": "celiac disease",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "HLADQA1, HLADQA1"
+    },
+    {
+      "source": "type I diabetes mellitus",
+      "target": "systemic lupus erythematosus",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "HLADQA1, HLADQA1"
+    },
+    {
+      "source": "coronary heart disease",
+      "target": "brain aneurysm",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "CDKN2BAS1"
+    },
+    {
+      "source": "coronary heart disease",
+      "target": "attention deficit hyperactivity disorder",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "CDH13"
+    },
+    {
+      "source": "coronary heart disease",
+      "target": "total cholesterol measurement",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "CELSR2, PSRC1"
+    },
+    {
+      "source": "rheumatoid arthritis",
+      "target": "celiac disease",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": " HLADQA1"
+    },
+    {
+      "source": "rheumatoid arthritis",
+      "target": "systemic lupus erythematosus",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": " HLADQA1"
+    },
+    {
+      "source": "rheumatoid arthritis",
+      "target": "body height",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "CDK6"
+    },
+    {
+      "source": "rheumatoid arthritis",
+      "target": "interleukin-6 receptor measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "RF00019"
+    },
+    {
+      "source": "rheumatoid arthritis",
+      "target": "ulcerative colitis",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "RF00019"
+    },
+    {
+      "source": "celiac disease",
+      "target": "systemic lupus erythematosus",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "HLADQA1, HLADQA1"
+    },
+    {
+      "source": "atrial fibrillation",
+      "target": "chronic lymphocytic leukemia",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "DRAIC"
+    },
+    {
+      "source": "atrial fibrillation",
+      "target": "volumetric brain MRI",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "CNTN5"
+    },
+    {
+      "source": "waist-hip ratio",
+      "target": "body weight",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "FTO"
+    },
+    {
+      "source": "waist-hip ratio",
+      "target": "obesity",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "FTO"
+    },
+    {
+      "source": "body weight",
+      "target": "obesity",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "FTO"
+    },
+    {
+      "source": "body weight",
+      "target": "tissue plasminogen activator measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "NEGR1"
+    },
+    {
+      "source": "body weight",
+      "target": "systemic lupus erythematosus",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "NEGR1"
+    },
+    {
+      "source": "body weight",
+      "target": "waist circumference",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "AC090771.1, AC090621.1"
+    },
+    {
+      "source": "multiple sclerosis",
+      "target": "total cholesterol measurement",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "AP000770.1, BUD13"
+    },
+    {
+      "source": "multiple sclerosis",
+      "target": "bone density",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "AL662796.1"
+    },
+    {
+      "source": "multiple sclerosis",
+      "target": "chronic childhood arthritis",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "AL662796.1, C6orf10"
+    },
+    {
+      "source": "multiple sclerosis",
+      "target": "alkaline phosphatase measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "PDZRN4"
+    },
+    {
+      "source": "multiple sclerosis",
+      "target": "response to iloperidone",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "NUBPL"
+    },
+    {
+      "source": "multiple sclerosis",
+      "target": "lipid measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "GPC5"
+    },
+    {
+      "source": "neurotic disorder",
+      "target": "sleep measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "PDE4D"
+    },
+    {
+      "source": "neurotic disorder",
+      "target": "blood viscosity",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "MDGA2"
+    },
+    {
+      "source": "body height",
+      "target": "attention deficit hyperactivity disorder",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "SUPT3H"
+    },
+    {
+      "source": "CCL2 measurement",
+      "target": "hip geometry",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "DLG2"
+    },
+    {
+      "source": "CCL2 measurement",
+      "target": "serum IgE measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "FCER1A"
+    },
+    {
+      "source": "C-reactive protein measurement",
+      "target": "lung carcinoma",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "CRPP1, CRP"
+    },
+    {
+      "source": "C-reactive protein measurement",
+      "target": "inflammatory response",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "CRPP1, CRP"
+    },
+    {
+      "source": "C-reactive protein measurement",
+      "target": "pulmonary function measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "IL6R"
+    },
+    {
+      "source": "C-reactive protein measurement",
+      "target": "interleukin-6 receptor measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "IL6R"
+    },
+    {
+      "source": "C-reactive protein measurement",
+      "target": "total cholesterol measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "TOMM40"
+    },
+    {
+      "source": "bone density",
+      "target": "chronic childhood arthritis",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "AL662796.1"
+    },
+    {
+      "source": "diastolic blood pressure",
+      "target": "cardiovascular measurement, left ventricular function",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "AL590392.1, SPACA1"
+    },
+    {
+      "source": "blood pressure",
+      "target": "attention deficit hyperactivity disorder",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "GPC6"
+    },
+    {
+      "source": "fasting blood insulin measurement",
+      "target": "insulin resistance",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "AL390334.1"
+    },
+    {
+      "source": "fasting blood glucose measurement",
+      "target": "A1C measurement",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "SPC25,GCK"
+    },
+    {
+      "source": "fasting blood glucose measurement",
+      "target": "glucose measurement",
+      "value": 3,
+      "ngenes": 3,
+      "genelist": "SPC25, G6PC2,MTNR1B"
+    },
+    {
+      "source": "abdominal aortic artery calcification",
+      "target": "systemic lupus erythematosus",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "WDFY4"
+    },
+    {
+      "source": "neuropsychological test",
+      "target": "response to TNF antagonist",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "PKN2AS1"
+    },
+    {
+      "source": "pulmonary function measurement",
+      "target": "attention deficit hyperactivity disorder",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "SLC35F4"
+    },
+    {
+      "source": "pulmonary function measurement",
+      "target": "interleukin-6 receptor measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "IL6R"
+    },
+    {
+      "source": "tissue plasminogen activator measurement",
+      "target": "systemic lupus erythematosus",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "NEGR1"
+    },
+    {
+      "source": "hemoglobin measurement",
+      "target": "resistin measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "LINC00624"
+    },
+    {
+      "source": "A1C measurement",
+      "target": "glucose measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "SPC25"
+    },
+    {
+      "source": "CD40 ligand measurement",
+      "target": "attention deficit hyperactivity disorder",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": " RF00012"
+    },
+    {
+      "source": "CD40 ligand measurement",
+      "target": "behavior",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": " RF00012"
+    },
+    {
+      "source": "skin pigmentation",
+      "target": "eye color",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "TYR"
+    },
+    {
+      "source": "skin pigmentation",
+      "target": "freckles",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "TYR"
+    },
+    {
+      "source": "skin pigmentation",
+      "target": "skin sensitivity to sun",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "TYR"
+    },
+    {
+      "source": "skin pigmentation",
+      "target": "hair color",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "SLC45A2, SLC45A2"
+    },
+    {
+      "source": "hair color",
+      "target": "eye color",
+      "value": 4,
+      "ngenes": 4,
+      "genelist": "RNU6366P, SLC24A4,HERC2, HERC2"
+    },
+    {
+      "source": "hair color",
+      "target": "freckles",
+      "value": 6,
+      "ngenes": 6,
+      "genelist": "IRF4,MC1R, AC092143.1,RPS2P1, ASIP; RPS2P1, ASIP"
+    },
+    {
+      "source": "hair color",
+      "target": "chronic lymphocytic leukemia",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "IRF4"
+    },
+    {
+      "source": "hair color",
+      "target": "skin sensitivity to sun",
+      "value": 5,
+      "ngenes": 5,
+      "genelist": "MC1R, AC092143.1,RPS2P1, ASIP; RPS2P1, ASIP"
+    },
+    {
+      "source": "hair color",
+      "target": "freckles, sunburn",
+      "value": 3,
+      "ngenes": 3,
+      "genelist": "RPS2P1, ASIP; RPS2P1, ASIP"
+    },
+    {
+      "source": "eye color",
+      "target": "freckles",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "TYR"
+    },
+    {
+      "source": "eye color",
+      "target": "skin sensitivity to sun",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "TYR"
+    },
+    {
+      "source": "eye color",
+      "target": "attention deficit hyperactivity disorder",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "RNU247P, TYRP1"
+    },
+    {
+      "source": "freckles",
+      "target": "skin sensitivity to sun",
+      "value": 6,
+      "ngenes": 6,
+      "genelist": "TYR,MC1R, AC092143.1,RPS2P1, ASIP; RPS2P1, ASIP"
+    },
+    {
+      "source": "freckles",
+      "target": "chronic lymphocytic leukemia",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "IRF4"
+    },
+    {
+      "source": "freckles",
+      "target": "freckles, sunburn",
+      "value": 3,
+      "ngenes": 3,
+      "genelist": "RPS2P1, ASIP; RPS2P1, ASIP"
+    },
+    {
+      "source": "skin sensitivity to sun",
+      "target": "freckles, sunburn",
+      "value": 3,
+      "ngenes": 3,
+      "genelist": "RPS2P1, ASIP; RPS2P1, ASIP"
+    },
+    {
+      "source": "urate measurement",
+      "target": "uric acid measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "SLC2A9"
+    },
+    {
+      "source": "psoriasis",
+      "target": "interleukin 18 measurement",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "HLAB, HLAB"
+    },
+    {
+      "source": "lung carcinoma",
+      "target": "inflammatory response",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "CRPP1, CRP"
+    },
+    {
+      "source": "interleukin-6 receptor measurement",
+      "target": "ulcerative colitis",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "RF00019"
+    },
+    {
+      "source": "serum gamma-glutamyl transferase measurement",
+      "target": "liver enzyme measurement, serum gamma-glutamyl transferase measurement",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "GGT1, SNRPD3"
+    },
+    {
+      "source": "insulin like growth factor measurement",
+      "target": "attention deficit hyperactivity disorder, conduct disorder",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "KIRREL3"
+    },
+    {
+      "source": "response to iloperidone",
+      "target": "behavior",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "SLCO3A1"
+    },
+    {
+      "source": "attention deficit hyperactivity disorder",
+      "target": "behavior",
+      "value": 6,
+      "ngenes": 6,
+      "genelist": "MTA3,LINC01707,C1orf143, RF00012,PTHLH, CCDC91"
+    },
+    {
+      "source": "attention deficit hyperactivity disorder",
+      "target": "multiple sclerosis, age at onset",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "NCKAP5"
+    },
+    {
+      "source": "attention deficit hyperactivity disorder",
+      "target": "iron biomarker measurement",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "AL390816.3, AL389895.1"
+    },
+    {
+      "source": "attention deficit hyperactivity disorder, conduct disorder",
+      "target": "phospholipid measurement",
+      "value": 1,
+      "ngenes": 1,
+      "genelist": "RBFOX1"
+    },
+    {
+      "source": "phospholipid measurement",
+      "target": "total cholesterol measurement",
+      "value": 2,
+      "ngenes": 2,
+      "genelist": "FADS2,ALDH1A2"
+    }
+  ]
+}
